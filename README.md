@@ -1,4 +1,4 @@
-Below are the features requests we have collected so far on Alibaba side:
+Below are the features requests we have collected so far:
 
 # Most Wanted Features
 1. ALTER Storage Procedure / Trigger / View / Function is not supported (Workaround: user can drop and recreate it alternatively);
