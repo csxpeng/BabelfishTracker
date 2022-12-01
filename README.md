@@ -10,7 +10,7 @@ Below are the features requests we have collected so far:
 2. Global temp table support, like MSSQL temp table (DML looks like "create table ##temp (id int)");
 3. SQL Server resource governor to limit the CPU / Memory / IO resources database by database or user by user for our SAAS ISV customer;
 
-# Came across but Lower Priority
+# Came Across but Lower Priority
 1. DENY permission;
 2. XML data type operations, like VALUE / QUERY / EXISTS and etc;
 3. EXECUTE AS USER.
