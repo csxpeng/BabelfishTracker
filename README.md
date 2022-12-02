@@ -3,7 +3,7 @@ Below are the features requests we have collected so far:
 # Most Wanted Features
 1. ALTER Storage Procedure / Trigger / View / Function is not supported (Workaround: user can drop and recreate it alternatively);
 2. MSSQL SQL Job support, something similar to PostgreSQL pg_cron or Linux cron job;
-3. SSMS object explorer is not supported (Workaround: user can "new query window" instead).
+(x) 3. SSMS object explorer is not supported (Workaround: user can "new query window" instead).
 
 # Medium Priority
 1. ALTER DATABASE SCOPED CONFIGURATION;
